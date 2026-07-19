@@ -20,6 +20,7 @@ The following table maps the observed attacker behavior to the MITRE ATT&CK Ente
 
 The investigation demonstrates a typical ransomware attack lifecycle:
 
+```
 Reconnaissance
     ↓
 Initial Access
@@ -33,5 +34,6 @@ Credential Access
 Collection
     ↓
 Impact
+```
 
 The incident primarily affected the Availability component of the CIA Triad through encryption of user data.
